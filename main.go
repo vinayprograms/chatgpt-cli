@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/yourusername/chatgpt-cli/chatgpt"
+	"github.com/vinayprograms/chatgpt-cli/chatgpt"
 )
 
 func main() {
